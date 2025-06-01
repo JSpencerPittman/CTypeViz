@@ -1,6 +1,0 @@
-[submodule "lib/cppparser"]
-	path = lib/cppparser
-	url = git@github.com:JSpencerPittman/cppparser.git
-[submodule "lib/common"]
-	path = lib/common
-	url = https://github.com/satya-das/common.git
