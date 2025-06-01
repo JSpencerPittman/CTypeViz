@@ -1,0 +1,3 @@
+[submodule "lib/cppparser"]
+	path = lib/cppparser
+	url = git@github.com:satya-das/cppparser.git
